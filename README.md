@@ -1,6 +1,6 @@
 # Snake Game
 
-##### A traditional snake game where the snake will get longer and score is counted each time the user eats a dot. (11/04/2015)
+##### A traditional snake game where the snake will get longer and score is counted each time the user eats a dot. [Click to view live.](http://loganwuu.github.io/snakegame/) (11/04/2015)
 
 #### By Logan Wu
 
