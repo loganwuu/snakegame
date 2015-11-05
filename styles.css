@@ -16,6 +16,7 @@ body {
   background-image: url("snake.jpg");
   background-repeat: no-repeat;
   font-family: 'Righteous', cursive;
+  min-height: 100%;
 }
 
 h1 {
