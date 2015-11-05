@@ -1,0 +1,28 @@
+/* Basic styling and centering of canvas. */
+canvas {
+  display: block;
+  position: absolute;
+  width: 50%;
+  border: 2px solid #00FF00;
+  margin: 13% auto 0 auto;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+/* Background image and font */
+body {
+  background-image: url("snake.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  font-family: 'Righteous', cursive;
+}
+
+h1 {
+  text-align: center;
+  font-size: 85px;
+  text-shadow: 2px 2px 2px #00FF00;
+}
