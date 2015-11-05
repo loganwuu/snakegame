@@ -11,11 +11,9 @@ canvas {
   left: 0;
 }
 
-/* Background image and font */
 body {
   background: #00FF00;
   background-image: url("snake.jpg");
-  background-size: cover;
   background-repeat: no-repeat;
   font-family: 'Righteous', cursive;
 }
