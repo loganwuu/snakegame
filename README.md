@@ -1,5 +1,7 @@
 # Snake Game
 
+##### A traditional snake game where the snake will get longer and score is added each time the user eats a dot
+
 #### By Logan Wu
 
 ## Technologies Used
